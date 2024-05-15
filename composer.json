@@ -1,0 +1,9 @@
+{
+  "name": "one234ru/html-tag-generator",
+  "description": "https://github.com/1234ru/html-tag-generator",
+  "minimum-stability": "stable",
+  "license": [ "GPL-3.0-or-later" ],
+  "require": {
+    "php": ">=7.1"
+  }
+}
