@@ -29,7 +29,7 @@ composer require one234ru/html-element-generator:dev-master
 ### Вручную
 
 Библиотека не имеет внешних зависимостей. Для работы требуется только файл 
-[HTMLtagGenerator.php](../HTMLtagGenerator.php):
+[HTMLtagGenerator.php](https://raw.githubusercontent.com/1234ru/html-tag-generator/main/HTMLtagGenerator.php):
 
 ```php
 require_once 'HTMLtagGenerator.php';

@@ -27,7 +27,7 @@ composer require one234ru/html-element-generator:dev-main
 
 ### Manual
 
-The library doesn't have any dependencies. Only [HTMLtagGenerator.php](../HTMLtagGenerator.php) file is required for work.
+The library doesn't have any dependencies. Only [HTMLtagGenerator.php](https://raw.githubusercontent.com/1234ru/html-tag-generator/main/HTMLtagGenerator.php) file is required for work.
 
 ```php
 require_once 'HTMLtagGenerator.php';
