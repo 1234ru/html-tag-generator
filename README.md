@@ -1,4 +1,4 @@
-[In English](README.md)
+[По-русски](README-RU.md)
 
 
 # HTML tags source code generation based on configuration array
