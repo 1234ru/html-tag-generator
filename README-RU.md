@@ -1,4 +1,5 @@
-[In English](README.md)
+**[IN ENGLISH](README.md)**
+
 
 # Генерация кода HTML-тегов на основе конфигурационных массивов
 
@@ -14,7 +15,7 @@
 "repositories": [
    {
       "type": "git",
-      "url": "https://github.com/1234ru/html-element-generator"
+      "url": "https://github.com/1234ru/html-tag-generator"
    }
 ]
 ```
@@ -22,7 +23,7 @@
 Выполните команду `composer require`, явно указав ветку `master` при помощи префикса `dev-`:
 
 ```shell
-composer require one234ru/html-element-generator:dev-master 
+composer require one234ru/html-element-generator:dev-main 
 ```
 
 

@@ -1,4 +1,4 @@
-[По-русски](README-RU.md)
+**[ПО-РУССКИ](README-RU.md)**
 
 
 # HTML tags source code generation based on configuration array
@@ -14,7 +14,7 @@ Add a new repository to your `composer.json`:
 "repositories": [
    {
       "type": "git",
-      "url": "https://github.com/1234ru/html-element-generator"
+      "url": "https://github.com/1234ru/html-tag-generator"
    }
 ]
 ```
