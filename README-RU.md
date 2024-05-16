@@ -20,10 +20,10 @@
 ]
 ```
 
-Выполните команду `composer require`, явно указав ветку `master` при помощи префикса `dev-`:
+Выполните команду `composer require`, явно указав ветку `main` при помощи префикса `dev-`:
 
 ```shell
-composer require one234ru/html-element-generator:dev-main 
+composer require one234ru/html-tag-generator:dev-main 
 ```
 
 
