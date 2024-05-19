@@ -1,6 +1,6 @@
 {
   "name": "one234ru/html-tag-generator",
-  "description": "https://github.com/1234ru/html-tag-generator",
+  "description": " PHP tool for generating code of HTML tags.",
   "minimum-stability": "stable",
   "license": [ "GPL-3.0-or-later" ],
   "autoload": {
