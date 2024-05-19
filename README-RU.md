@@ -9,8 +9,6 @@
 
 ### С помощью Composer
 
-Выполните команду `composer require`, явно указав ветку `main` при помощи префикса `dev-`:
-
 ```shell
 composer require one234ru/html-tag-generator:dev-main 
 ```

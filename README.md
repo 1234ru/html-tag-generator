@@ -8,8 +8,6 @@
 
 ### Composer
 
-Run `composer require` explicitly specifying `main` branch after `dev-` prefix:
-
 ```shell
 composer require one234ru/html-tag-generator:dev-main 
 ```
