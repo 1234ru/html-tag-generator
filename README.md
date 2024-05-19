@@ -8,17 +8,6 @@
 
 ### Composer
 
-Add a new repository to your `composer.json`:
-
-```json 
-"repositories": [
-   {
-      "type": "git",
-      "url": "https://github.com/1234ru/html-tag-generator"
-   }
-]
-```
-
 Run `composer require` explicitly specifying `main` branch after `dev-` prefix:
 
 ```shell

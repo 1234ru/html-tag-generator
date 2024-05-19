@@ -9,17 +9,6 @@
 
 ### С помощью Composer
 
-Добавьте новый элемент в раздел `repositories` файла `composer.json`:
-
-```json 
-"repositories": [
-   {
-      "type": "git",
-      "url": "https://github.com/1234ru/html-tag-generator"
-   }
-]
-```
-
 Выполните команду `composer require`, явно указав ветку `main` при помощи префикса `dev-`:
 
 ```shell
