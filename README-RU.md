@@ -10,7 +10,7 @@
 ### С помощью Composer
 
 ```shell
-composer require one234ru/html-tag-generator:dev-main 
+composer require one234ru/html-tag-generator 
 ```
 
 
